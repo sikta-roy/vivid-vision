@@ -24,7 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider appearance={{
-      variables: { colorPrimary: '#624cf5' }
+      variables: { colorPrimary: '#3AA6B9' }
     }}>
      <Head>
       <link rel="icon" href="/favicon.ico" />
